@@ -7,3 +7,4 @@ full stack data transfer test
 - fetch api 
 
 
+just check out the main.go
